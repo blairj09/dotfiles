@@ -1,0 +1,32 @@
+{
+    "editor_keybindings": "vim",
+    "syntax_color_console": true,
+    "highlight_r_function_calls": true,
+    "save_files_before_build": true,
+    "default_project_location": "~/tmp",
+    "source_with_echo": true,
+    "wrap_tab_navigation": false,
+    "save_workspace": "never",
+    "show_user_home_page": "always",
+    "reuse_sessions_for_project_links": true,
+    "use_secure_download": false,
+    "cran_mirror": {
+        "name": "Global (CDN)",
+        "host": "RStudio",
+        "url": "http://cran.rstudio.com/",
+        "secondary": "",
+        "country": "us"
+    },
+    "shiny_viewer_type": "pane",
+    "jobs_tab_visibility": "shown",
+    "plumber_viewer_type": "pane",
+    "posix_terminal_shell": "bash",
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "editor_theme": "Material",
+    "server_editor_font_enabled": true,
+    "server_editor_font": "Fira Code",
+    "insert_native_pipe_operator": true,
+    "font_size_points": 11,
+    "new_proj_git_init": true
+}
