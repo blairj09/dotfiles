@@ -1,0 +1,5 @@
+# Set plumber port
+options("plumber.port" = 5762)
+
+# Set CRAN repo
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
